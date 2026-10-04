@@ -20,7 +20,9 @@
 
 ### 🚀 About Me
 
-I am a senior software engineer with over 15 years of continuous presence on GitHub (since January 2011). My focus is building robust, mission-critical systems where correctness, low latency, and deterministic execution are non-negotiable.
+I am a senior systems and software engineer with a strong foundation in private enterprise architecture, now actively building and securing open-source decentralized protocols and high-throughput web applications. 
+
+My GitHub account dates back to 2011, reflecting long-standing industry exposure, while my current open-source work centers on high-impact engineering across Rust, Solana, Stellar Soroban, and enterprise TypeScript.
 
 * 🦀 **Smart Contracts & Web3**: Deep hands-on development in **Rust**, **Solana** (Anchor, PDA security, CPI verification) and **Stellar Soroban** (state persistence, TTL management, multi-token escrow, auth boundaries).
 * ⚡ **Full-Stack & Distributed Systems**: Enterprise TypeScript, Next.js, Node.js/Express, PostgreSQL (Row Level Security / RLS), Redis, and automated CI/CD pipelines.
